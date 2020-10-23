@@ -1,0 +1,32 @@
+.imageWidth
+{
+  width: 400px;
+}
+.padingTop
+{
+  padding-top: 5px;
+}
+
+
+.jumbotron-image {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image:url("assets/images/h123.jpg");
+  padding: 250px;
+}
+
+.aboutText{
+
+  font-size: 30px;
+}
+/*   px قيمة ثابت 
+% نسبة 
+
+*/
+.display-4 {
+  background-color: #ffffff;
+  width: 100%;
+  border: 1px solid #00ff00;
+  height: 100px;
+}
